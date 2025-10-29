@@ -1,0 +1,91 @@
+# 🌐 Entrega Final — Projeto Integrador Web Completo
+
+**Aluna:** Beatriz Viana  
+**Disciplina:** Desenvolvimento Web  
+**Professor:** (adicione o nome do professor)  
+**Data da Entrega:** 29/10/2025  
+
+🔗 **Repositório Público:**  
+https://github.com/BeatrizViana/entrega-final  
+
+🔗 **Versão Online (GitHub Pages):**  
+https://BeatrizViana.github.io/entrega-final/
+
+---
+
+## 🎯 Objetivo
+Esta entrega final consolida todo o projeto desenvolvido nas etapas anteriores (HTML5, CSS3 e JavaScript Avançado), aplicando práticas profissionais de **versionamento, acessibilidade e otimização para produção**.  
+O objetivo é demonstrar domínio completo do ciclo de desenvolvimento web moderno.
+
+---
+
+## 🧠 Tecnologias Utilizadas
+- **HTML5** (semântica e acessibilidade)
+- **CSS3** (design system, grid e responsividade)
+- **JavaScript (ES6+)** (SPA, DOM e localStorage)
+- **Git e GitHub** (controle de versão e deploy)
+- **WCAG 2.1 AA** (boas práticas de acessibilidade)
+## ⚙️ Funcionalidades Principais
+
+### 🌈 Sistema de Design e Responsividade
+- Paleta de cores com variáveis CSS customizadas;
+- Grid 12 colunas com CSS Grid e Flexbox;
+- Tipografia hierárquica e espaçamento modular.
+
+### 🧩 Interatividade com JavaScript
+- SPA simples com templates dinâmicos;
+- Validação de formulários e alertas de feedback;
+- Armazenamento local via localStorage.
+
+### ♿ Acessibilidade WCAG 2.1 (AA)
+- Navegação por teclado em todos os componentes;
+- Estrutura semântica completa;
+- Suporte para leitores de tela (atributos `aria`);
+- Modo de alto contraste e modo escuro.
+
+### ⚡ Otimização
+- CSS, JS e HTML minificados;
+- Imagens otimizadas e compressão aplicada;
+- Lazy loading de imagens.
+
+---
+
+## 🧩 Versionamento e Deploy
+
+### Estrutura GitFlow
+- `main` → produção  
+- `develop` → desenvolvimento  
+- `feature/` → novas funcionalidades  
+- `release/` → testes antes de versão  
+- `hotfix/` → correções em produção  
+
+### Versionamento Semântico
+| Versão | Descrição |
+|--------|------------|
+| v1.0.0 | Estrutura base e layout CSS3 |
+| v2.0.0 | Interatividade com JavaScript |
+| v3.0.0 | Acessibilidade, otimização e documentação final |
+
+### Histórico e Issues
+- Commits padronizados (`feat:`, `fix:`, `docs:`, `refactor:`)
+- Issues abertas e milestones definidas
+- Pull Requests com revisão e merge documentado
+
+---
+
+## 📖 Documentação Técnica
+- **/docs/changelog.md** → histórico de versões e alterações;  
+- **/docs/accessibility-report.md** → relatório de acessibilidade;  
+- **/docs/version-history.md** → registro de releases e GitFlow.
+
+---
+
+## ✅ Conclusão
+Este projeto demonstra o ciclo completo de desenvolvimento web —  
+da estrutura HTML5 à otimização e deploy profissional —  
+seguindo práticas reais utilizadas em equipes de front-end modernas.
+
+---
+
+📚 **Desenvolvido por:** *Beatriz Viana*  
+💻 *Entrega Final — Projeto Integrador Web 2025*
